@@ -1,9 +1,7 @@
 ### Hi,My name is Brown Liu 👋
 
-<!--
-**brown-liu/brown-liu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here is bit about me.
 
 - 🔭 I’m currently a BCS student in software engineering in Unitec. AKL. NZ
 - 🌱 I’m currently learning DNN and CV
