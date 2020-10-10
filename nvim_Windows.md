@@ -11,3 +11,12 @@ Plug 'vim-airline/vim-airline-themes'
 
 set background =dark
 colorscheme gruvbox
+
+C++ syntax check
+http://www.vim.org/scripts/script.php?script_id=4205
+ " cppSyntaxCheck
+let g:include_path=":../include:./include:./tinyxml"
+let g:compile_flag="-D_LINUX_"
+let g:cpp_compiler="/usr/bin/g++"
+let g:enable_warning=1
+let g:cpp_compiler="LANG=C g++ -Wall"
